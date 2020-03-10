@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I'm here to learn how to work with AL & Git
